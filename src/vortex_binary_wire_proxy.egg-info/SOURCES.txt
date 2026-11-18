@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/vortex_binary_wire_proxy/__init__.py
+src/vortex_binary_wire_proxy/runner.py
+src/vortex_binary_wire_proxy.egg-info/PKG-INFO
+src/vortex_binary_wire_proxy.egg-info/SOURCES.txt
+src/vortex_binary_wire_proxy.egg-info/dependency_links.txt
+src/vortex_binary_wire_proxy.egg-info/top_level.txt
+tests/test_runner.py
